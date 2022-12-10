@@ -1,14 +1,13 @@
 import React from 'react';
 import {Container, Row, Col } from 'react-bootstrap';
-import {contactConfig } from './layout/'
 
 export default function contact() {
   return <>
 <Container>
   <Row className="mb-5 mt-3">
     <Col lg='8'>
-      <h1 className='display-4 mb-4'>
-      CONTACT ME, LET'S WORK!!!</h1>
+      <h2 className='display-4 mb-4'>
+      CONTACT ME, LET'S WORK!!!</h2>
     </Col>
     <Col Lg='7' className='d-flex align-items-center'>
     <form className='contact__form w-100'>

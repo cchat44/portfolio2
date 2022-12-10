@@ -1,10 +1,11 @@
-import React from 'react'
-
+import React from "react";
 export default function Home() {
-  return <>
-    <div>
-     <h2>Cory R Chatman</h2>
-      Software Engineeer 
-   </div>
-  </>
+  return (
+    <>
+      <div>
+        <h2>Cory R Chatman</h2>
+        Software Engineeer
+      </div>
+    </>
+  );
 }

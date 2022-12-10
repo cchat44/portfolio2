@@ -11,6 +11,5 @@ function  Navbar() {
       <Link to='/contact'> Contact Me</Link>
     </div>
   </>
-
 };
 export default Navbar;
