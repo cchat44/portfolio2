@@ -3,9 +3,12 @@ export default function
 Home() {
   return (
     <>
+
+
+
       <div>
-        <h2>Cory R Chatman</h2>
-        Software Engineeer
+       <center> <h1>Cory R Chatman</h1>
+        <h3>Full Stack Developer</h3></center>
       </div>
     </>
   );
