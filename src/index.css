@@ -23,20 +23,26 @@ code {
     color:black;
 }
 
-.img {
-  height: 100 px;
-  width: 100 px;
-}
 
 .container {
   width: 100%;
-    padding-right: 15px;
-    padding-left: 15px;
+    padding-right: 25px;
+    padding-left: 25px;
     margin-right: auto;
     margin-left: auto;
 }
 
+.container2 {
+  width: 100%;
+    padding-right: 25px;
+    padding-left: 25px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100px;
+    width: 100px;
+}
+
 p {
   position: absolute;
-margin-left: 300px;
+margin-left: 0px;
 }
